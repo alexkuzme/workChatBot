@@ -1,0 +1,5 @@
+NSK	True
+MSK	True
+RND	True
+EKB	True
+NIN	True
